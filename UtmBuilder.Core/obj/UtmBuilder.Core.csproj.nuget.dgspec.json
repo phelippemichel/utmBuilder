@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/phelippesantos/devc/UtmBuilder/UtmBuilder.Core/UtmBuilder.Core.csproj": {}
+    "/Users/phelippesantos/devc/utmBuilder/UtmBuilder.Core/UtmBuilder.Core.csproj": {}
   },
   "projects": {
-    "/Users/phelippesantos/devc/UtmBuilder/UtmBuilder.Core/UtmBuilder.Core.csproj": {
+    "/Users/phelippesantos/devc/utmBuilder/UtmBuilder.Core/UtmBuilder.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/phelippesantos/devc/UtmBuilder/UtmBuilder.Core/UtmBuilder.Core.csproj",
+        "projectUniqueName": "/Users/phelippesantos/devc/utmBuilder/UtmBuilder.Core/UtmBuilder.Core.csproj",
         "projectName": "UtmBuilder.Core",
-        "projectPath": "/Users/phelippesantos/devc/UtmBuilder/UtmBuilder.Core/UtmBuilder.Core.csproj",
+        "projectPath": "/Users/phelippesantos/devc/utmBuilder/UtmBuilder.Core/UtmBuilder.Core.csproj",
         "packagesPath": "/Users/phelippesantos/.nuget/packages/",
-        "outputPath": "/Users/phelippesantos/devc/UtmBuilder/UtmBuilder.Core/obj/",
+        "outputPath": "/Users/phelippesantos/devc/utmBuilder/UtmBuilder.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/phelippesantos/.nuget/NuGet/NuGet.Config"
