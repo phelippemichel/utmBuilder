@@ -9,3 +9,4 @@
 /Users/phelippesantos/devc/UtmBuilder/UtmBuilder.Core/obj/Debug/net8.0/refint/UtmBuilder.Core.dll
 /Users/phelippesantos/devc/UtmBuilder/UtmBuilder.Core/obj/Debug/net8.0/UtmBuilder.Core.pdb
 /Users/phelippesantos/devc/UtmBuilder/UtmBuilder.Core/obj/Debug/net8.0/ref/UtmBuilder.Core.dll
+/Users/phelippesantos/devc/UtmBuilder/UtmBuilder.Core/obj/Debug/net8.0/UtmBuilder.Core.sourcelink.json
