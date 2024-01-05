@@ -21,5 +21,5 @@ public class Utm
     /// Campaign Details
     /// </summary>
     public Campaign Campaign { get; }
-    public string Content { get; }
+    public string Content { get; set; }
 }
