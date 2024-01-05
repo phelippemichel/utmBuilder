@@ -1,12 +1,25 @@
+using UtmBuilder.Core.ValueObjects;
+
 namespace UtmBuilder.Core;
 
 public class Utm
 {
-    public string Url { get; set; }
-    public string Source { get; set; }
-    public string Medium { get; set; }
-    public string Name { get; set; }
-    public string Id { get; set; }
-    public string Term { get; set; }
+    public Utm(
+        Url url,
+        Campaign campaign)
+    {
+        Url = url;
+        Campaign = campaign;
+    }
+    
+    /// <summary>
+    /// URL Website link
+    /// </summary>
+    public Url Url { get; }
+    
+    /// <summary>
+    /// Campaign Details
+    /// </summary>
+    public Campaign Campaign { get; }
     public string Content { get; set; }
 }
