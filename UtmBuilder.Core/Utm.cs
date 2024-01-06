@@ -1,3 +1,4 @@
+using UtmBuilder.Core.Extensions;
 using UtmBuilder.Core.ValueObjects;
 
 namespace UtmBuilder.Core;
@@ -21,5 +22,11 @@ public class Utm
     /// Campaign Details
     /// </summary>
     public Campaign Campaign { get; }
-    public string Content { get; set; }
+    
+    public override string ToString()
+    {
+        var segments = new List<string>();
+        if (!string.IsNullOrEmpty(Campaign.Source))
+            segments.AddIfNotNull();
+        return $"{Url.Address}?utm_source={string.Join("&", segments)}";
 }
