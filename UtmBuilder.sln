@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtmBuilder.Core", "UtmBuilder.Core\UtmBuilder.Core.csproj", "{2D41DABD-53F8-4FD8-9C91-ACE3BD29F45E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtmBuilder.Core.Tests", "UtmBuilder.Core.Tests\UtmBuilder.Core.Tests.csproj", "{C5B9959E-D7B4-44DC-B434-3775D65711AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2D41DABD-53F8-4FD8-9C91-ACE3BD29F45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D41DABD-53F8-4FD8-9C91-ACE3BD29F45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D41DABD-53F8-4FD8-9C91-ACE3BD29F45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B9959E-D7B4-44DC-B434-3775D65711AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B9959E-D7B4-44DC-B434-3775D65711AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B9959E-D7B4-44DC-B434-3775D65711AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B9959E-D7B4-44DC-B434-3775D65711AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

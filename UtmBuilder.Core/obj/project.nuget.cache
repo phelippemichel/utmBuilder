@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R1PUPal6yUehKRI9rN6RyFTnHwQNRL0baDMYFVxPuRyEeFluWOaUm9pFP8IztogUpZXnM4wvyMwaci5VmSYpaQ==",
+  "dgSpecHash": "v4DxrsPnuIMJwsWv/wij5Y6fqGTkJMd/6uqyztTIc/zkCXn0tVbApj6jDpc1J3JPwdOSPyJB+y7AtA/z1R+BJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pheli\\dev\\utmBuilder\\UtmBuilder.Core\\UtmBuilder.Core.csproj",
+  "projectFilePath": "/Users/phelippesantos/devc/utmBuilder/UtmBuilder.Core/UtmBuilder.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
