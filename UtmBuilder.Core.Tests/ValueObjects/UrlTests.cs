@@ -51,6 +51,4 @@ public class UrlTests
             Assert.IsTrue(true);
         }
     }
-    
-    
 }
