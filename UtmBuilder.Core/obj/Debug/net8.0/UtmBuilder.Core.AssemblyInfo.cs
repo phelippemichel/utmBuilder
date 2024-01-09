@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UtmBuilder.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f52038d1ddb766933882a66291ceded9a90711e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9254bf82912197dee48ccb0e0016eb52337997")]
 [assembly: System.Reflection.AssemblyProductAttribute("UtmBuilder.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UtmBuilder.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
