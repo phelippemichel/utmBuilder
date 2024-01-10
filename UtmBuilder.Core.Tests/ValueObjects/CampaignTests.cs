@@ -1,3 +1,4 @@
+using Microsoft.VisualStudio.TestPlatform.CommunicationUtilities;
 using UtmBuilder.Core.ValueObjects;
 using UtmBuilder.Core.ValueObjects.Exceptions;
 
